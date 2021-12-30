@@ -1,7 +1,7 @@
 ## HelloWorld Mobile App
 
 ### App Description
-`This simple mobile app is my first attempt at mobile app development. This project was completed for the pre-work assignment of CodePath's Intro to Mobile App Development course in Java (Spring 2022 course).
+`This simple mobile app is my first attempt at mobile app development. This project was completed for the pre-work assignment of CodePath's Intro to Mobile App Development course in Java (Spring 2022 course). This basic mobile app allows the user to tap a button to change the color of the text.
 
 ### App Walk-though
 <img src="https://media.giphy.com/media/HXJ7mk6vt9wuAGpWx4/giphy.gif" width=200><br>
